@@ -22,6 +22,8 @@ To build a `.plugin` file for upload instead:
 ```
 .claude-plugin/marketplace.json   marketplace listing
 plugins/qa-lifecycle/             the Claude plugin (see its README)
+AGENTS.md                         how the repo works, for coding agents
+tests/                            tests for the state engine
 build.sh                          packages the plugin as a .plugin file
 ```
 
