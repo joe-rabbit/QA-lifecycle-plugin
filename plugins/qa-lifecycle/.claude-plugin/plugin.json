@@ -1,0 +1,7 @@
+{
+  "name": "qa-lifecycle",
+  "version": "0.1.0",
+  "description": "Turns a BRD into an approved understanding doc, test plan, test scenarios and test cases, with a review gate after every stage and full requirement traceability.",
+  "author": { "name": "Joe" },
+  "keywords": ["qa", "testing", "test-plan", "test-cases", "brd", "traceability"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "qa-lifecycle",
+  "owner": { "name": "Joe" },
+  "metadata": { "description": "QA lifecycle plugins: BRD to approved test plan, scenarios and test cases." },
+  "plugins": [
+    {
+      "name": "qa-lifecycle",
+      "source": "./plugins/qa-lifecycle",
+      "description": "Turns a BRD into an approved understanding doc, test plan, test scenarios and test cases, with a review gate after every stage and full requirement traceability.",
+      "version": "0.1.0"
+    }
+  ]
+}
